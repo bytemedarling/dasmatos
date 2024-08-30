@@ -1,0 +1,59 @@
+.banner-card {
+    position: r;
+}
+.banner-text {
+    background-image: url(/Volumes/Seagate/codecademy/resources/images/pattern.jpeg);
+    height: 100px;
+    margin-top: 50px;
+    margin-bottom: 75px;
+    position: relative;
+    padding-bottom: 15px;
+    padding-top: auto;
+}
+.text {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    position: relative;
+}
+.brushes {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+.brush-highlight {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.frames {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+.frame-highlight {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.paint {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+.paint-highlight {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
